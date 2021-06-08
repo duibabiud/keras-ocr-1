@@ -283,7 +283,7 @@ def draw_text_image(text,
                     thetaX=0,
                     thetaY=0,
                     thetaZ=0,
-                    color=(0, 0, 0),
+                    color=(200, 45, 10),
                     permitted_contour=None,
                     draw_contour=False):
     """Get a transparent image containing text.
